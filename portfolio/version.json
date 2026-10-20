@@ -1,0 +1,14 @@
+{
+  "latestVersionCode": 3,
+  "latestVersionName": "2.0.1",
+  "minSupportedVersion": 1,
+  "releaseDate": "2026-10-20",
+  "apkUrl": "/downloads/CashflowApp.apk",
+  "fileSize": "1.6 MB",
+  "changelog": [
+    "Optimalisasi bundle release hingga hanya 1.6 MB",
+    "Pembaruan UI modern berbasis Material 3 & Jetpack Compose",
+    "Peningkatan kecepatan render riwayat transaksi & grafik cashflow",
+    "Penyempurnaan sistem verifikasi dan proteksi data offline"
+  ]
+}
